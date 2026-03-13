@@ -1,5 +1,7 @@
 # AR Knick Knack
 
+[![react][react]]
+
 ## Project Overview
 This project is an augmented reality knick knack built using Unity and the Vuforia AR framework. The application tracks a cube using a webcam and attaches a virtual scene to the cube in real time.
 
@@ -95,3 +97,7 @@ Creator: Vladyslav Holhanov
 Source: https://sketchfab.com/3d-models/free-low-poly-car-38d83155e7724a14b300e156b134a1bb
 
 All assets are used for educational purposes as part of a university AR project.
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[react]: https://cdn.discordapp.com/attachments/880274195093811313/1481861561436864653/image.png?ex=69b4da9f&is=69b3891f&hm=b49c83dde0a11462177655ceb0c32d963d3a390c32a6c287d1985ec25a1e0e07&
